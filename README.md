@@ -7,6 +7,6 @@ This project showcases my skills in data cleaning, exploration, analysis, and vi
 *The project was divided into 3 phases: Cleaning, Processing and Visualization/Analytics. \
 There were 2 data tables and 1 contained categorical sales, while the other contained sales with different company codes.*
 
-*Some glimpse pf the outputs:*
+*Some of the charts:*
 ![Avg  Sale   Qnty per Category](https://github.com/user-attachments/assets/95c2e82a-4620-48f5-a129-4880774bdf04)
 ![Top 100 Dicrepancies Heatmap](https://github.com/user-attachments/assets/67743a3b-46fa-4cf3-90b1-610b922c8a33)
